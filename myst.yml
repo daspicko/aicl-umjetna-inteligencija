@@ -1,0 +1,14 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: fc39ae99-e9f1-40be-9d2e-d395004658cd
+  title: AICL - Stručnjak za umjetnu inteligenciju
+  description: Organizacija nastavnih materijala i resursa za Stručnjak za umjetnu inteligenciju (AICL) program.
+  authors:
+    - name: AICL Team
+      website: https://www.lipik.ai/
+site:
+  template: book-theme
+  options:
+    favicon: ./docs/images/favicon.ico
+    logo: ./docs/images/ai-center-logo.png
