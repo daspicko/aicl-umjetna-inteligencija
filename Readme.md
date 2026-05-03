@@ -20,8 +20,28 @@ Repozitorij sadrži stukturu za lakši početak i organizaciju nastavnih materij
 
 - [uv](https://docs.astral.sh/uv/getting-started/installation/) - alat za upravljanje virtualnim okruženjima i paketima u Pythonu, koji pojednostavljuje instalaciju i održavanje ovisnosti projekta.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - integrirano razvojno okruženje (IDE) koje pruža napredne alate za razvoj u Pythonu, uključujući podršku za virtualna okruženja, upravljanje paketima i integraciju s verzionim sustavima poput Git-a.
+- [Git](https://git-scm.com/) - sustav za kontrolu verzija koji omogućuje praćenje promjena u kodu, suradnju s drugim programerima i upravljanje različitim verzijama projekta.
 
 Upute u nastavku pisane su uz pretpostavku da imate instalirana oba alata.
+
+### Preuzimanje projekta
+
+Projekt je moguće preuzeti na dva načina: kao ZIP datoteku ili kloniranjem repozitorija s GitHub-a.
+
+#### Preuzimanje kao ZIP datoteka
+Preuzmite [ZIP datoteku](https://github.com/daspicko/aicl-umjetna-inteligencija/archive/refs/heads/main.zip) na računalo. Nakon preuzimanja raspakirajte datoteku.
+`Napomena:` ZIP datoteka imat će naziv glavne grane repozitorija, stoga će se nakon raspakiravanja stvoriti direktorij s nazivom `aicl-umjetna-inteligencija-main`. Preimenujte taj direktorij u `aicl-umjetna-inteligencija` kako bi se uskladilo s nazivom repozitorija.
+
+#### Kloniranje repozitorija
+Projekt možete preuzeti kloniranjem repozitorija s GitHub-a:
+```bash
+git clone https://github.com/daspicko/aicl-umjetna-inteligencija.git
+```
+
+Nakon preuzimanja projekta, pozicionirajte se u direktorij projekta:
+```bash
+cd aicl-umjetna-inteligencija
+```
 
 ### Instalacija virtualnog okruženja
 Virtualno okruženje je izolirani dio sustava koji sadrži sve potrebne biblioteke za rad. Više o virtualizaciji te usporedbi virtualnih strojeva, kontejnera i virtualnih okruženja možete vidjeti u dokumentu [Virtualizacija](docs/Virtualizacija.pdf).
