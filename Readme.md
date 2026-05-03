@@ -71,4 +71,4 @@ jupyter book start
 Zatim otvorite preglednik i idite na `http://localhost:3000/` gdje ćete moći pregledavati sve nastavne materijale organizirane po temama. Nakon što dodate nove materijale u repozitorij, oni će automatski biti dostupni u pregledniku.
 
 ### Ažuriranje i ispravci
-Ako primijetite bilo kakve greške ili imate prijedloge za poboljšanje nastavnih materijala, slobodno otvorite issue ili pull request na GitHub repozitoriju. Vaše povratne informacije su dobrodošle i pomoći će nam da poboljšamo kvalitetu edukacije.
+Ako primijetite bilo kakve greške ili imate prijedloge za poboljšanje nastavnih materijala, molim da otvorite [issue](https://github.com/daspicko/aicl-umjetna-inteligencija/issues) ili [pull request](https://github.com/daspicko/aicl-umjetna-inteligencija/pulls) na [GitHub repozitoriju](https://github.com/daspicko/aicl-umjetna-inteligencija).
